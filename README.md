@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 Hello!
 
-I hope this works
+I am currently working on Java Modulue 1
+I am Currently learning GitHub systems
+Fun Fact...I Play way to much League of Legends dont judge me
